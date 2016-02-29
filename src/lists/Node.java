@@ -1,4 +1,4 @@
-package homework;
+package lists;
 
 public class Node {
 
